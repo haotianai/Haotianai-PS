@@ -4,9 +4,8 @@ Haotian PS是一款功能强大的网页版 AI 照片编辑器，利用 Google a
 
 ![Haotian PS界面截图](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-2-5-flash-prompt-based-image-editing.original.png)
 
-## 注意，调用 gemini api key 是需要收费的。但直接调用环境变量中的api是免费的。[推荐可大方使用的极具性价比API平台](https://cnb.build/no.1/api/-/issues/2)
 
-### [【AiStudio DEMO】](https://ai.studio/apps/drive/1JSVTWc7Pe1GfLLrQcBWPZF_yH_80xUGg)  [【视频教程】](https://www.bilibili.com/video/BV1y6e2z3EDS/)  [【交流群】](https://cnb.cool/fuliai/comfyui/-/issues/11) 
+
 
 > 登录了google aistudio 的可以直接打开上面 app 使用。
 
@@ -69,7 +68,7 @@ Haotian PS的强大功能由 Google 最先进的一系列生成式 AI 模型驱�
 - [x] 取消输入自定义Gemini Api Key的功能入口。需要的可联系我
 - [x] 一张图片生成年轻及年老时的一整套图片出来
 - [x] 增加音画志功能页面：风格化图集，随节拍一键成片。
-- [x] 重新支持Gemini API，大家也可以自行部署并使用兼容gemini api的API来使用。[推荐可大方使用的极具性价比API平台，源头价格更低](https://cnb.build/no.1/api/-/issues/2)
+- [x] 重新支持Gemini API，大家也可以自行部署并使用兼容gemini api的API来使用。
 - [] 增加粘贴传图功能等来优化体验
 - [] 芝士香蕉功能-计划中
 - [] 增加模板功能
@@ -141,7 +140,7 @@ Haotian PS的强大功能由 Google 最先进的一系列生成式 AI 模型驱�
 
 点击 **Deploy** 按钮。Vercel 会在几十秒内完成部署，之后您就可以通过 Vercel 提供的 URL 访问您的线上 AI 图片编辑器了！
 
-###  [【视频教程】](https://www.bilibili.com/video/BV1y6e2z3EDS/)  [【交流群】](https://cnb.cool/fuliai/comfyui/-/issues/11) 
+
 
 ## 📄 许可证
 
