@@ -9,7 +9,6 @@ Haotian PS是一款功能强大的网页版 AI 照片编辑器，利用 Google a
 
 > 登录了google aistudio 的可以直接打开上面 app 使用。
 
-> #### 请大家谨慎使用自己的gemini api key。[推荐可大方使用的极具性价比API平台](https://cnb.build/no.1/api/-/issues/2)
 
 ## 视频中提示词：[点这里查看](prompt.md)
 
